@@ -1,6 +1,6 @@
 {
   "name": "twindx",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Convert nested Tailwind classes into clean, responsive CSS output using Twind.",
   "main": "src/index.js",
   "scripts": {
