@@ -1,0 +1,6 @@
+example.js
+.gitignore
+npm-debug.log
+*.log
+*.md~
+*.tmp

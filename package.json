@@ -1,0 +1,46 @@
+{
+  "name": "twindx",
+  "version": "0.1.0",
+  "description": "Convert nested Tailwind classes into clean, responsive CSS output using Twind.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node example.js",
+    "dev": "node example.js",
+    "test": "echo \"No tests yet\" && exit 0",
+    "lint": "echo \"No linter configured\" && exit 0"
+  },
+  "keywords": [
+    "tailwindcss",
+    "twind",
+    "css",
+    "atomic-css",
+    "utility-first",
+    "scss",
+    "builder",
+    "generator",
+    "responsive",
+    "pseudo-classes",
+    "css-in-js"
+  ],
+  "author": "Bigetion",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bigetion/twindx"
+  },
+  "bugs": {
+    "url": "https://github.com/Bigetion/twindx/issues"
+  },
+  "homepage": "https://github.com/Bigetion/twindx#readme",
+  "dependencies": {
+    "twind": "^0.16.19"
+  },
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=14"
+  }
+}
