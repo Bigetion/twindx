@@ -1,0 +1,46 @@
+{
+  "name": "twsx",
+  "version": "0.1.0",
+  "description": "SCSS-like Tailwind class builder that outputs atomic CSS using Twind. Built for developers who prefer writing utility-first CSS in a structured, nested way.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node example.js",
+    "dev": "node example.js",
+    "test": "echo \"No tests yet\" && exit 0",
+    "lint": "echo \"No linter configured\" && exit 0"
+  },
+  "keywords": [
+    "tailwindcss",
+    "twind",
+    "css",
+    "atomic-css",
+    "utility-first",
+    "scss",
+    "builder",
+    "generator",
+    "responsive",
+    "pseudo-classes",
+    "css-in-js"
+  ],
+  "author": "Bigetion",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bigetion/twsx"
+  },
+  "bugs": {
+    "url": "https://github.com/Bigetion/twsx/issues"
+  },
+  "homepage": "https://github.com/Bigetion/twsx#readme",
+  "dependencies": {
+    "twind": "^0.16.19"
+  },
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=14"
+  }
+}
